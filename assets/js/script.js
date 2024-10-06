@@ -1,2 +1,4 @@
 // JavaScript code for client-side processes
-console.log("Script Loaded");
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Script loaded.');
+});

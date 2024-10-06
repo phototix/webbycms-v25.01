@@ -1,8 +1,7 @@
-<?php include '../../assets/css/style.css'; ?>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Home</title>
+    <title>Contact</title>
     <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
@@ -19,8 +18,8 @@
         </nav>
     </header>
     <main>
-        <h1>Welcome to Our Home Page</h1>
-        <p>Content goes here.</p>
+        <h1>Contact Us</h1>
+        <p>Contact page content.</p>
     </main>
     <footer>
         &copy; 2024 Your Company
